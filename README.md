@@ -12,7 +12,21 @@ A production-ready, full-stack WiFi hotspot map application that runs **complete
 - 📱 **Mobile Friendly**: Responsive design
 - 🔐 **100% Local**: SQLite database, no external services
 
-## Quick Start (3 Steps!)
+## Quick Start (4 Steps!)
+
+### Pre Start!
+
+### Make an .env.local file in \dynamic-wifi-database
+
+# hCaptcha configuration (optional)
+NEXT_PUBLIC_HCAPTCHA_SITE_KEY=""
+
+# Auth configuration SUPBASE!
+AUTH_SECRET="SECRET_API_KEY"
+
+###Fill this file!
+
+### Start
 
 ### 1. Install Dependencies
 
