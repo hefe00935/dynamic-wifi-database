@@ -1,0 +1,3 @@
+/* Leaflet CSS - imported separately to avoid SSR issues */
+@import 'leaflet/dist/leaflet.css';
+
